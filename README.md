@@ -33,4 +33,14 @@ Features
 3. Run the application:
     python Staycation.py
 
+📸 Screenshots
+![Staycation Project Screenshot](Picture1.png)
+(Picture2.png)
+(Picture3.png)
+(Picture4.png)
+(Picture5.png)
+(Picture6.png)
+
+
+
    
