@@ -38,7 +38,7 @@ Features
 ![Staycation Project Screenshot](Picture2.png)
 
  🏨 Booking Flow
-![Booking](images/picture1.png)
+![Booking](images/Picture1.png)
 
 
 
