@@ -36,9 +36,11 @@ Features
 📸 Screenshots
 ![Staycation Project Screenshot](Picture1.png)
 ![Staycation Project Screenshot](Picture2.png)
+![Staycation Project Screenshot](Picture3.png)
+![Staycation Project Screenshot](Picture4.png)
+![Staycation Project Screenshot](Picture5.png)
+![Staycation Project Screenshot](Picture6.png)
 
- 🏨 Booking Flow
-![Booking](images/Picture1.png)
 
 
 
